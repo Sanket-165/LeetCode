@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Sanket-165/LeetCode/tree/master/0060-permutation-sequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanket-165/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanket-165/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sanket-165/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sanket-165/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Sanket-165/LeetCode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
