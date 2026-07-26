@@ -2,13 +2,13 @@ class Solution {
 public:
     int factorial(int n){
         int ans = 1;
-
         while(n){
             ans=ans*n;
             n--;
         }
         return ans;
     }
+
     string getPermutation(int n, int k) {
         vector<int>ans;
         int fact = factorial(n-1);
@@ -20,13 +20,11 @@ public:
             int i=0;
             while(k>fact){
                 k-=fact;
-                i++;
-                
+                i++;    
             }
             ans.push_back(arr[i]);
-             arr.erase(arr.begin()+i); 
+            arr.erase(arr.begin()+i); 
             
-
             if(currSize>0)
             fact/=currSize;
             currSize--;
