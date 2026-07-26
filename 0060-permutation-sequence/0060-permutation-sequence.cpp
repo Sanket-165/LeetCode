@@ -13,7 +13,7 @@ public:
         int fact = factorial(n-1);
         string ans="";
 
-        while(ans.size()!=n){
+        while(true){
             int i=0;
             while(k>fact){
                 k-=fact;
@@ -22,7 +22,7 @@ public:
             ans+=(arr[i]+'0');
             arr.erase(arr.begin()+i); 
             
-            if(arr.size()>0)
+            if(arr.size()==0) break;
             fact/=arr.size(); 
         }
         return ans;
