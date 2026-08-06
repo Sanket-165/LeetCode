@@ -2,7 +2,7 @@ class Solution {
 public:
     int smallestNumber(int n, int t) {
         
-        if(n%10==0) return n;
+        if((n%10)==0) return n;
         while(true){
             string s = to_string(n);
             int pro=1;
