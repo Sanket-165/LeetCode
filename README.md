@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanket-165/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sanket-165/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanket-165/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2582-pass-the-pillow](https://github.com/Sanket-165/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sanket-165/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sanket-165/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sanket-165/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Sanket-165/LeetCode/tree/master/1260-shift-2d-grid) |
+| [2582-pass-the-pillow](https://github.com/Sanket-165/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanket-165/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
