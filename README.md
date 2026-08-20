@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Sanket-165/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanket-165/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanket-165/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanket-165/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Sanket-165/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sanket-165/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanket-165/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Sanket-165/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2582-pass-the-pillow](https://github.com/Sanket-165/LeetCode/tree/master/2582-pass-the-pillow) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanket-165/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sanket-165/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
